@@ -13,8 +13,5 @@
   "dependencies": {
     "express": "^4.17.3",
     "winston": "^3.6.0"
-  },
-  "engines": {
-    "node": "16.14.0"
   }
 }
